@@ -9,7 +9,6 @@
       "url3": "https://cdn.dribbble.com/users/2253180/screenshots/16465396/media/e8c0726829335cee10f24a591f401fd1.jpg?compress=1&resize=1600x1200&vertical=top",
       "id": "first"
     },
-
     {
       "category": "Web",
       "miniText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -21,7 +20,26 @@
       "id": "three"
     },
     {
-      "category": "Web sites",
+      "category": "UI/UX",
+      "miniText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "title": "Mobile app landing page",
+      "url1": "https://cdn.dribbble.com/users/2253180/screenshots/16465396/media/1c5a46dedd6773ed61437d01437d5b8d.jpg?compress=1&resize=1600x1200&vertical=top",
+      "url2": "https://cdn.dribbble.com/users/2253180/screenshots/16465396/media/e8c0726829335cee10f24a591f401fd1.jpg?compress=1&resize=1600x1200&vertical=top4",
+      "url3": "https://cdn.dribbble.com/users/2253180/screenshots/16465396/media/e8c0726829335cee10f24a591f401fd1.jpg?compress=1&resize=1600x1200&vertical=top",
+      "id": "four"
+    },{
+      "category": "UI/UX",
+      "miniText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "title": "Mobile app landing page",
+      "url1": "https://cdn.dribbble.com/users/2253180/screenshots/16465396/media/1c5a46dedd6773ed61437d01437d5b8d.jpg?compress=1&resize=1600x1200&vertical=top",
+      "url2": "https://cdn.dribbble.com/users/2253180/screenshots/16465396/media/e8c0726829335cee10f24a591f401fd1.jpg?compress=1&resize=1600x1200&vertical=top4",
+      "url3": "https://cdn.dribbble.com/users/2253180/screenshots/16465396/media/e8c0726829335cee10f24a591f401fd1.jpg?compress=1&resize=1600x1200&vertical=top",
+      "id": "three"
+    },
+    {
+      "category": "3D design",
       "miniText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "title": "Mobile app landing page",
